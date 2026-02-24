@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Akhil Saji<br>Frontend-Focused Full-Stack Developer 💻<br><br>Frontend Developer with a strong focus on building responsive and scalable user interfaces.<br>Comfortable with backend fundamentals and API integration using Node.js and MongoDB.</p>
+<p align="left">Akhil Saji<br>Frontend Developer | React Specialist | Scalable UI & Backend Integrationr 💻<br><br>Frontend Developer with a strong focus on building responsive and scalable user interfaces.<br>Comfortable with backend fundamentals and API integration using Node.js and MongoDB.</p>
 
 ###
 
