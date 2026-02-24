@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Welcome to my GitHub 👋</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi, I'm Akhil Saji 👋  <br>Frontend Developer from Kottayam, Kerala 🇮🇳  <br><br>I design and build modern, responsive, and scalable web interfaces with React and Tailwind CSS.  <br>Strong backend foundation in Node.js and MongoDB.  <br><br>Turning ideas into clean, functional digital experiences 🚀</p>
+<p align="left">Akhil Saji<br>Frontend-Focused Full-Stack Developer 💻<br><br>Frontend Developer with a strong focus on building responsive and scalable user interfaces.<br>Comfortable with backend fundamentals and API integration using Node.js and MongoDB.</p>
 
 ###
 
@@ -14,11 +14,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025 (and fixing them like a pro 😎)<br><br>📚 I'm currently learning Advanced React patterns, backend optimization, and system design.<br><br>🎯 Goals: To become a high-level Full-Stack Engineer and build scalable, real-world products that solve meaningful problems.<br><br>🎲 Fun fact: I enjoy debugging more than writing code sometimes — because that’s where real learning happens 🚀</p>
+<p align="left">✨ Writing production-grade code since 2025, continuously refining engineering standards and best practices.<br><br>📚 Currently deepening my expertise in advanced React patterns, backend optimization, and system design.<br><br>🎯 Goal: To grow into a high-impact Full-Stack Engineer and build scalable, real-world products that solve meaningful problems.<br><br>🧠 I genuinely enjoy debugging and performance optimization — that’s where the real learning and growth happen 🚀</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Technology Stack & Tools</h2>
 
 ###
 
@@ -31,11 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
@@ -74,10 +70,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akgt3/Akgt3/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akgt3/Akgt3/output/pacman-contribution-graph.svg">
@@ -88,7 +80,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Akgt3&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akgt3&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -99,14 +90,6 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31gq6rejcae5p7xs5zthztjcwnhe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gq6rejcae5p7xs5zthztjcwnhe&count=5" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
