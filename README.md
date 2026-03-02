@@ -16,7 +16,7 @@ Experienced in designing modular React frontends, engineering RESTful APIs with 
 
 ###
 
-<p align="left">✨ Writing production-grade code since 2025, continuously refining engineering standards and best practices.<br><br>📚 Currently deepening my expertise in advanced React patterns, backend optimization, and system design.<br><br>🎯 Goal: To grow into a high-impact Full-Stack Engineer and build scalable, real-world products that solve meaningful problems.<br><br>🧠 I genuinely enjoy debugging and performance optimization — that’s where the real learning and growth happen 🚀</p>
+<p align="left">✨ Writing production-grade code since 2025, continuously refining clean architecture principles and performance optimization practices.<br><br>📚 Currently expanding expertise in Next.js, system design fundamentals, and full-stack scalability patterns.<br><br>🎯 Goal: To grow into a high-impact Full-Stack Engineer building robust, real-world products that combine strong frontend experience with reliable backend systems.<br><br>🧠 Passionate about debugging, performance tuning, and solving complex data-flow problems — where real engineering growth happens.</p>
 
 ###
 
