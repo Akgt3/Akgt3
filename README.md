@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">Akhil Saji<br>Frontend Developer specializing in React | Scalable UI & REST API Integration 💻<br><br>Frontend Developer with a strong focus on building responsive and scalable user interfaces.<br>Comfortable with backend fundamentals and API integration using Node.js and MongoDB.</p>
+<p align="left">Akhil Saji<br>Full-Stack MERN Developer | Scalable Web Applications & Real-Time Systems 🚀<br><br>Full-Stack JavaScript Developer specializing in the MERN stack, building scalable, production-ready web applications from architecture to deployment.
+
+Experienced in designing modular React frontends, engineering RESTful APIs with Node.js and Express, structuring MongoDB data models, and implementing secure authentication using JWT and OAuth.<br>Comfortable with backend fundamentals and API integration using Node.js and MongoDB.</p>
 
 ###
 
