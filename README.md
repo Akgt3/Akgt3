@@ -82,11 +82,21 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
 ---
 
-### `02 / CONTRIBUTION STREAK`
+<!-- CONTRIBUTION STREAK -->
 
-<div align="center"> <img src="assets/streak.svg" width="100%" alt="Real GitHub contribution streak statistics" /> </div>
+<h2 align="center">02 / CONTRIBUTION STREAK</h2>
 
----
+<p align="center">
+  <sub>REAL GITHUB ACTIVITY · AUTOMATICALLY UPDATED</sub>
+</p>
+
+<div align="center">
+  <img
+    src="./assets/streak.svg"
+    width="100%"
+    alt="Animated GitHub contribution streak statistics"
+  />
+</div>
 
 
 
