@@ -107,14 +107,14 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
   <br/>
 
-  <!-- CONTRIBUTION ACTIVITY -->
+
 <!-- 02 / CONTRIBUTION STREAK -->
 
 <div align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Akgt3&theme=dark"
-    width="90%"
-    alt="GitHub contribution streak"
+    src="./assets/streak.svg"
+    width="100%"
+    alt="GitHub Contribution Streak"
   />
 </div>
 
