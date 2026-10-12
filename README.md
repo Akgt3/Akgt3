@@ -1,218 +1,209 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                  ANIMATED PROFILE                          -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050505,50:111827,100:2563EB&text=AKHIL%20SAJI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20MERN%20DEVELOPER&descSize=17&descAlignY=58&animation=fadeIn&stroke=2563EB&strokeWidth=1" alt="Akhil Saji animated header"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;Building+Modern+Web+Experiences;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Turning+Ideas+Into+Digital+Products" alt="Animated developer introduction"/>
+<img src="assets/header.svg" width="100%" alt="Akhil Saji — Full-Stack MERN Developer"/>
 
 <br/>
 
 <a href="https://github.com/Akgt3">
-  <img src="https://komarev.com/ghpvc/?username=Akgt3&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/GITHUB-AKGT3-0B0F14?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0B0F14" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/akhilsaji339/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B0F14?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=0B0F14" alt="LinkedIn"/>
 </a>
 
-<a href="https://github.com/Akgt3?tab=followers">
-  <img src="https://img.shields.io/github/followers/Akgt3?style=for-the-badge&color=111827&labelColor=2563EB&logo=github&label=FOLLOWERS" alt="GitHub followers"/>
-</a>
+<br/><br/>
 
-<a href="https://github.com/Akgt3?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=700&color=8AB4F8&center=true&vCenter=true&width=760&lines=FULL-STACK+MERN+DEVELOPER;ENGINEERING+RESPONSIVE+WEB+EXPERIENCES;REACT+%2F+NODE.JS+%2F+EXPRESS+%2F+MONGODB;DESIGN.+BUILD.+MEASURE.+IMPROVE." alt="Animated engineering tagline"/>
 
 </div>
 
 ---
 
-## `01 / ABOUT ME`
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer coding"/>
+### `PROFILE / 001`
 
-Hey! I'm **Akhil Saji**, a Full-Stack MERN Developer passionate about building modern, responsive, and user-focused web applications.
+I'm **Akhil Saji**, a Full-Stack MERN Developer focused on building responsive web applications, practical user experiences, and maintainable application logic.
 
-I enjoy working across the stack, from designing clean interfaces to implementing backend functionality and database integration.
+I work across the application stack: from React interfaces and API integration to Express services and MongoDB persistence.
 
-* 💻 Full-stack web development
-* ⚛️ React-based user interfaces
-* ⚙️ REST APIs and backend development
-* 🗄️ Database design and integration
-* 🎨 Responsive UI and modern web experiences
-* 🚀 Constant learning and project development
+- **Frontend:** responsive interfaces and reusable components
+- **Backend:** REST API development and server-side logic
+- **Data:** MongoDB, Mongoose, and CRUD workflows
+- **Workflow:** Git, GitHub, debugging, and iterative development
 
-<br clear="right"/>
+</td>
+<td width="42%" valign="top">
 
----
+<img src="assets/terminal.svg" width="100%" alt="Engineering terminal card"/>
 
-## `02 / TECH STACK`
+</td>
+</tr>
+</table>
+
+## `02 / ENGINEERING STACK`
 
 <div align="center">
 
-### FRONTEND
+**INTERFACE ENGINEERING**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui&perline=9" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui&perline=7" alt="Frontend stack"/>
 
-### BACKEND & DATABASE
+**APPLICATION & DATA**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=8" alt="Backend and database technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=7" alt="Backend and database stack"/>
 
-### TOOLS & WORKFLOW
+**DEVELOPER TOOLING**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vite&perline=8" alt="Developer tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vite&perline=7" alt="Developer tooling"/>
 
 </div>
+
+> Add TypeScript, Next.js, AWS, Docker, or testing tools to this matrix when you're ready to confidently discuss and demonstrate them in an interview.
 
 ---
 
-## `03 / FEATURED PROJECTS`
+## `03 / SYSTEM MODEL`
 
 <div align="center">
 
-<a href="https://github.com/Akgt3">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0:111827,100:1D4ED8&text=SELECTED%20PROJECTS&fontSize=19&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Selected projects banner"/>
-</a>
+<img src="assets/architecture.svg" width="100%" alt="MERN application architecture diagram"/>
 
 </div>
+
+**Typical request path**
+
+`Browser / React UI` → `HTTP request` → `Express route` → `Node.js logic` → `MongoDB` → `JSON response` → `React state / UI`
+
+This is a reference architecture for MERN-style applications, not a claim that every project currently implements every layer.
+
+---
+
+## `04 / PROJECT ENGINEERING`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏡 EstateNest
+### `PROJECT 01` · EstateNest
 
-**Real Estate Listing Platform**
+**Real estate listing platform**
 
-A real estate platform concept for property discovery, listing management, and connecting buyers with sellers.
+A property-discovery application concept for organizing listings and helping users explore properties.
 
-* Property listings and management
-* Authentication and authorization
-* Property search and filtering
-* Responsive interface
-
-**Stack**
+- Property listing and management
+- Search and filtering experience
+- Authentication and authorization
+- Responsive layouts
 
 `React` `Node.js` `Express` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 StreamFlix
+### `PROJECT 02` · StreamFlix
 
-**Movie & Entertainment Platform**
+**Movie discovery experience**
 
-A streaming-inspired web application focused on movie discovery, user accounts, and an engaging interface.
+A streaming-inspired application focused on browsing entertainment content through a modern interface.
 
-* Movie browsing and search
-* User authentication
-* Personal watchlist
-* Animated interface
+- Movie browsing and search
+- Account and authentication flows
+- Personal watchlist experience
+- Motion-focused interface
 
-**Stack**
-
-`React` `Tailwind CSS` `Node.js` `MongoDB`
+`React` `Tailwind CSS` `Express` `MongoDB`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💳 LoanLog
+### `PROJECT 03` · LoanLog
 
-**Loan & EMI Tracker**
+**Loan and EMI tracker**
 
-A loan management application designed to organize loan records and track EMI information.
+A CRUD application concept for organizing loan records and presenting payment information.
 
-* Loan record management
-* CRUD functionality
-* Payment tracking interface
-* Responsive dashboard
-
-**Stack**
+- Create, read, update, delete
+- Loan record management
+- Payment-tracking interface
+- Responsive dashboard
 
 `React` `Tailwind CSS` `JavaScript` `JSON Server`
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 What's Next?
+### `ENGINEERING PRINCIPLES`
 
-**Continuous Development**
-
-Exploring new technologies and building projects that improve my frontend engineering and full-stack development skills.
-
-* Better architecture
-* Improved performance
-* Modern UI patterns
-* Stronger JavaScript fundamentals
-
-**Focus**
-
-`Learn` `Build` `Improve`
+- Build for clarity before complexity
+- Keep components focused and reusable
+- Separate interface, API, and data responsibilities
+- Improve through debugging and iteration
+- Prefer maintainable solutions over unnecessary abstraction
 
 </td>
 </tr>
 </table>
 
-> Replace the project names with links to their actual repositories once you confirm the repository URLs.
+> Project descriptions are summaries. Add links to the real repositories and deployed demos after confirming the correct URLs.
 
 ---
 
-## `04 / GITHUB ANALYTICS`
+## `05 / GITHUB TELEMETRY`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akgt3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akgt3&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akgt3&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=8AB4F8&icon_color=8AB4F8&text_color=C9D1D9&rank_icon=github" alt="GitHub overview statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akgt3&layout=compact&hide_border=true&bg_color=0B0F14&title_color=8AB4F8&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Akgt3&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+<img width="78%" src="https://streak-stats.demolab.com?user=Akgt3&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=8AB4F8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akgt3&bg_color=0B0F14&color=C9D1D9&line=60A5FA&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub activity graph"/>
 
 </div>
 
+**How to read these panels**
+- Overview statistics summarize the public GitHub data the service can access.
+- Language charts estimate language usage from repositories; they do not measure skill level.
+- Streaks and activity graphs depend on GitHub activity and the availability of the respective services.
+
 ---
 
-## `05 / CONTRIBUTION GRAPH`
+## `06 / CONTRIBUTION VISUALIZATION`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akgt3&bg_color=0D1117&color=60A5FA&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+<img src="https://raw.githubusercontent.com/Akgt3/Akgt3/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Generated contribution snake animation"/>
 
 </div>
 
----
-
-## `06 / CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Akgt3/Akgt3/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
-
-</div>
+The contribution animation is generated by the workflow in `.github/workflows/snake.yml`. It will not appear until the workflow runs successfully and publishes the `output` branch.
 
 ---
 
-## `07 / CONNECT WITH ME`
+## `07 / CONTACT`
 
 <div align="center">
 
 <a href="https://github.com/Akgt3">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/SOURCE_CODE-GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/akhilsaji339/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/PROFESSIONAL_NETWORK-LINKEDIN-0B0F14?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2563EB,50:111827,100:050505&section=footer" width="100%" alt="Decorative footer"/>
+**BUILD / DEBUG / SHIP / REPEAT**
 
-**BUILD. CREATE. IMPROVE.**
-
-*Turning ideas into meaningful digital experiences.*
+<sub>Designed as a compact engineering portfolio · Akhil Saji</sub>
 
 </div>
