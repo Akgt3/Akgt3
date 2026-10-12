@@ -89,14 +89,14 @@ This is a reference architecture for MERN-style applications, not a claim that e
       <td align="center">
         <img
           src="https://github-readme-stats.vercel.app/api?username=Akgt3&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=60A5FA&icon_color=22D3EE&text_color=EAF2FC&rank_icon=github&include_all_commits=true"
-          width="70%"
+          width="80%"
           alt="GitHub profile statistics"
         />
       </td>
       <td align="center">
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akgt3&layout=compact&hide_border=true&bg_color=0B0F14&title_color=60A5FA&text_color=EAF2FC&langs_count=6"
-          width="70%"
+          width="80%"
           alt="Most-used programming languages"
         />
       </td>
