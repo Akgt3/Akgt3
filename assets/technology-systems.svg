@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<title id="title">Akhil Saji — Technology Systems</title>
+<desc id="desc">A dark engineering technology matrix in graphite, electric blue, and cyan, showing frontend, backend, data, and developer tooling.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#080B10"/>
+    <stop offset=".55" stop-color="#0B0F14"/>
+    <stop offset="1" stop-color="#0B1722"/>
+  </linearGradient>
+  <linearGradient id="blueLine" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#60A5FA"/>
+    <stop offset="1" stop-color="#22D3EE"/>
+  </linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" fill="none" stroke="#8AB4F8" stroke-opacity=".055" stroke-width="1"/>
+  </pattern>
+  <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    .mono{font-family:'JetBrains Mono','Consolas',monospace}
+    .sans{font-family:Inter,Arial,sans-serif}
+    .muted{fill:#8B9BB0}
+    .bright{fill:#EAF2FC}
+    .blue{fill:#60A5FA}
+    .cyan{fill:#22D3EE}
+    .small{font-size:11px;letter-spacing:2px}
+    .label{font-size:12px;letter-spacing:1.3px}
+    .item{font-size:13px;fill:#B8C7D9}
+    .panel{fill:#0B0F14;fill-opacity:.78;stroke:#26374B;stroke-width:1.2}
+    .pill{fill:#101A27;stroke:#34506B;stroke-opacity:.8}
+  </style>
+</defs>
+
+<rect width="1200" height="650" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="648" rx="18" fill="url(#grid)" stroke="#263449"/>
+<rect x="18" y="18" width="1164" height="614" rx="13" fill="none" stroke="#60A5FA" stroke-opacity=".25"/>
+<!-- corner marks -->
+<g fill="none" stroke="url(#blueLine)" stroke-width="2" opacity=".85">
+  <path d="M38 70V38H70"/><path d="M1130 38H1162V70"/>
+  <path d="M38 580V612H70"/><path d="M1130 612H1162V580"/>
+</g>
+<!-- subtle animated data specks -->
+<g fill="#60A5FA">
+  <circle cx="190" cy="95" r="2" opacity=".5"><animate attributeName="opacity" values=".15;.8;.15" dur="3.4s" repeatCount="indefinite"/></circle>
+  <circle cx="1015" cy="80" r="2" opacity=".5"><animate attributeName="opacity" values=".8;.15;.8" dur="4.1s" repeatCount="indefinite"/></circle>
+  <circle cx="830" cy="600" r="2" opacity=".4"><animate attributeName="opacity" values=".15;.7;.15" dur="3.8s" repeatCount="indefinite"/></circle>
+  <circle cx="70" cy="340" r="2" opacity=".4"><animate attributeName="opacity" values=".7;.15;.7" dur="4.4s" repeatCount="indefinite"/></circle>
+</g>
+
+<text x="600" y="65" text-anchor="middle" class="sans bright" font-size="32" font-weight="800" letter-spacing="1">TECHNOLOGY SYSTEMS</text>
+<text x="600" y="94" text-anchor="middle" class="mono cyan small">FULL-STACK MERN / ENGINEERING STACK / TOOLCHAIN</text>
+<path d="M365 111H835" stroke="url(#blueLine)" stroke-opacity=".8"/>
+<path d="M490 111H710" stroke="#22D3EE" stroke-width="2" filter="url(#softGlow)">
+  <animate attributeName="stroke-dasharray" values="4 220;100 124;4 220" dur="5s" repeatCount="indefinite"/>
+</path>
+
+<!-- Panel 1 -->
+<g transform="translate(45 137)">
+  <rect class="panel" width="267" height="420" rx="14"/>
+  <rect width="267" height="4" rx="2" fill="#60A5FA"/>
+  <text x="18" y="31" class="mono blue small">01 / INTERFACE</text>
+  <text x="18" y="63" class="sans bright" font-size="25" font-weight="750">FRONTEND</text>
+  <text x="18" y="84" class="sans muted" font-size="11">Components · Interaction · Experience</text>
+  <g transform="translate(205 32)" fill="none" stroke="#60A5FA" stroke-opacity=".7">
+    <circle cx="20" cy="20" r="19"/><circle cx="20" cy="20" r="8"/>
+    <path d="M20 0V10M20 30V40M0 20H10M30 20H40"/>
+  </g>
+  <g class="mono" font-size="11" text-anchor="middle">
+    <g transform="translate(17 105)">
+      <rect class="pill" width="52" height="42" rx="10"/><text x="26" y="25" class="cyan">HTML</text>
+      <rect class="pill" x="61" width="52" height="42" rx="10"/><text x="87" y="25" class="cyan">CSS</text>
+      <rect class="pill" x="122" width="52" height="42" rx="10"/><text x="148" y="25" class="cyan">JS</text>
+      <rect class="pill" x="183" width="50" height="42" rx="10"/><text x="208" y="25" class="cyan">RE</text>
+    </g>
+    <g transform="translate(46 156)">
+      <rect class="pill" width="52" height="38" rx="10"/><text x="26" y="24" class="blue">TW</text>
+      <rect class="pill" x="61" width="52" height="38" rx="10"/><text x="87" y="24" class="blue">BS</text>
+      <rect class="pill" x="122" width="52" height="38" rx="10"/><text x="148" y="24" class="blue">TS*</text>
+    </g>
+  </g>
+  <text x="18" y="225" class="mono cyan label">CORE TOOLCHAIN</text>
+  <g class="sans item">
+    <text x="18" y="254">React</text><text x="142" y="254">JavaScript</text>
+    <text x="18" y="280">HTML5 / CSS3</text><text x="142" y="280">Tailwind</text>
+    <text x="18" y="306">Bootstrap</text><text x="142" y="306">Responsive UI</text>
+  </g>
+  <path d="M18 328H249" stroke="#26374B"/>
+  <text x="18" y="352" class="mono blue small">INTERFACE LAYER</text>
+  <text x="18" y="376" class="sans bright" font-size="12" font-weight="700">COMPONENT-DRIVEN UI</text>
+  <rect x="18" y="393" width="231" height="4" rx="2" fill="#1D2B3C"/>
+  <rect x="18" y="393" width="170" height="4" rx="2" fill="#60A5FA">
+    <animate attributeName="width" values="130;190;170;130" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<!-- Panel 2 -->
+<g transform="translate(333 137)">
+  <rect class="panel" width="267" height="420" rx="14"/>
+  <rect width="267" height="4" rx="2" fill="#22D3EE"/>
+  <text x="18" y="31" class="mono cyan small">02 / APPLICATION</text>
+  <text x="18" y="63" class="sans bright" font-size="25" font-weight="750">BACKEND</text>
+  <text x="18" y="84" class="sans muted" font-size="11">APIs · Services · Application logic</text>
+  <g transform="translate(205 31)" fill="none" stroke="#22D3EE" stroke-opacity=".8" stroke-width="1.5">
+    <rect x="0" y="0" width="42" height="39" rx="5"/><path d="M8 10H34M8 20H34M8 30H27"/>
+    <circle cx="5" cy="10" r="1" fill="#22D3EE"/><circle cx="5" cy="20" r="1" fill="#22D3EE"/><circle cx="5" cy="30" r="1" fill="#22D3EE"/>
+  </g>
+  <g class="mono" font-size="11" text-anchor="middle">
+    <g transform="translate(17 105)">
+      <rect class="pill" width="52" height="42" rx="10"/><text x="26" y="25" class="cyan">NODE</text>
+      <rect class="pill" x="61" width="52" height="42" rx="10"/><text x="87" y="25" class="cyan">EXP</text>
+      <rect class="pill" x="122" width="52" height="42" rx="10"/><text x="148" y="25" class="cyan">API</text>
+      <rect class="pill" x="183" width="50" height="42" rx="10"/><text x="208" y="25" class="cyan">JWT</text>
+    </g>
+    <g transform="translate(46 156)">
+      <rect class="pill" width="52" height="38" rx="10"/><text x="26" y="24" class="blue">REST</text>
+      <rect class="pill" x="61" width="52" height="38" rx="10"/><text x="87" y="24" class="blue">AUTH</text>
+      <rect class="pill" x="122" width="52" height="38" rx="10"/><text x="148" y="24" class="blue">CRUD</text>
+    </g>
+  </g>
+  <text x="18" y="225" class="mono cyan label">SERVICE LAYER</text>
+  <g class="sans item">
+    <text x="18" y="254">Node.js</text><text x="142" y="254">Express.js</text>
+    <text x="18" y="280">REST APIs</text><text x="142" y="280">Middleware</text>
+    <text x="18" y="306">Authentication</text><text x="142" y="306">CRUD</text>
+  </g>
+  <path d="M18 328H249" stroke="#26374B"/>
+  <text x="18" y="352" class="mono cyan small">REQUEST FLOW</text>
+  <text x="18" y="376" class="sans bright" font-size="12" font-weight="700">ROUTES → LOGIC → RESPONSE</text>
+  <rect x="18" y="393" width="231" height="4" rx="2" fill="#1D2B3C"/>
+  <rect x="18" y="393" width="158" height="4" rx="2" fill="#22D3EE">
+    <animate attributeName="width" values="100;185;158;100" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<!-- Panel 3 -->
+<g transform="translate(621 137)">
+  <rect class="panel" width="267" height="420" rx="14"/>
+  <rect width="267" height="4" rx="2" fill="#60A5FA"/>
+  <text x="18" y="31" class="mono blue small">03 / PERSISTENCE</text>
+  <text x="18" y="63" class="sans bright" font-size="25" font-weight="750">DATA</text>
+  <text x="18" y="84" class="sans muted" font-size="11">Documents · Queries · Models</text>
+  <g transform="translate(210 29)" fill="none" stroke="#60A5FA" stroke-opacity=".8">
+    <ellipse cx="20" cy="7" rx="20" ry="7"/><path d="M0 7V39C0 48 40 48 40 39V7"/><path d="M0 22C0 31 40 31 40 22"/>
+  </g>
+  <g class="mono" font-size="11" text-anchor="middle">
+    <g transform="translate(17 105)">
+      <rect class="pill" width="52" height="42" rx="10"/><text x="26" y="25" class="cyan">MONGO</text>
+      <rect class="pill" x="61" width="52" height="42" rx="10"/><text x="87" y="25" class="cyan">SQL</text>
+      <rect class="pill" x="122" width="52" height="42" rx="10"/><text x="148" y="25" class="cyan">CRUD</text>
+      <rect class="pill" x="183" width="50" height="42" rx="10"/><text x="208" y="25" class="cyan">ODM</text>
+    </g>
+    <g transform="translate(46 156)">
+      <rect class="pill" width="52" height="38" rx="10"/><text x="26" y="24" class="blue">MODEL</text>
+      <rect class="pill" x="61" width="52" height="38" rx="10"/><text x="87" y="24" class="blue">QUERY</text>
+      <rect class="pill" x="122" width="52" height="38" rx="10"/><text x="148" y="24" class="blue">DATA</text>
+    </g>
+  </g>
+  <text x="18" y="225" class="mono cyan label">DATA SYSTEMS</text>
+  <g class="sans item">
+    <text x="18" y="254">MongoDB</text><text x="142" y="254">Mongoose</text>
+    <text x="18" y="280">MySQL basics</text><text x="142" y="280">CRUD</text>
+    <text x="18" y="306">Data models</text><text x="142" y="306">Query flow</text>
+  </g>
+  <path d="M18 328H249" stroke="#26374B"/>
+  <text x="18" y="352" class="mono blue small">DATA PIPELINE</text>
+  <text x="18" y="376" class="sans bright" font-size="12" font-weight="700">PERSISTENCE & MODELS</text>
+  <rect x="18" y="393" width="231" height="4" rx="2" fill="#1D2B3C"/>
+  <rect x="18" y="393" width="184" height="4" rx="2" fill="#60A5FA">
+    <animate attributeName="width" values="145;205;184;145" dur="9s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<!-- Panel 4 -->
+<g transform="translate(909 137)">
+  <rect class="panel" width="246" height="420" rx="14"/>
+  <rect width="246" height="4" rx="2" fill="#22D3EE"/>
+  <text x="18" y="31" class="mono cyan small">04 / WORKFLOW</text>
+  <text x="18" y="63" class="sans bright" font-size="25" font-weight="750">TOOLING</text>
+  <text x="18" y="84" class="sans muted" font-size="11">Versioning · Testing · Delivery</text>
+  <g transform="translate(190 31)" fill="none" stroke="#22D3EE" stroke-opacity=".8" stroke-width="1.5">
+    <path d="M0 5L16 0L32 5V20C32 30 16 38 16 38S0 30 0 20Z"/>
+    <path d="M9 18L14 23L24 12"/>
+  </g>
+  <g class="mono" font-size="11" text-anchor="middle">
+    <g transform="translate(17 105)">
+      <rect class="pill" width="48" height="42" rx="10"/><text x="24" y="25" class="cyan">GIT</text>
+      <rect class="pill" x="55" width="48" height="42" rx="10"/><text x="79" y="25" class="cyan">GH</text>
+      <rect class="pill" x="110" width="48" height="42" rx="10"/><text x="134" y="25" class="cyan">VSC</text>
+      <rect class="pill" x="165" width="48" height="42" rx="10"/><text x="189" y="25" class="cyan">API</text>
+    </g>
+    <g transform="translate(45 156)">
+      <rect class="pill" width="48" height="38" rx="10"/><text x="24" y="24" class="blue">NPM</text>
+      <rect class="pill" x="55" width="48" height="38" rx="10"/><text x="79" y="24" class="blue">VITE</text>
+      <rect class="pill" x="110" width="48" height="38" rx="10"/><text x="134" y="24" class="blue">FIG</text>
+    </g>
+  </g>
+  <text x="18" y="225" class="mono cyan label">DEVELOPER TOOLING</text>
+  <g class="sans item">
+    <text x="18" y="254">Git / GitHub</text><text x="18" y="280">VS Code</text>
+    <text x="18" y="306">Postman · npm</text>
+  </g>
+  <path d="M18 328H228" stroke="#26374B"/>
+  <text x="18" y="352" class="mono blue small">DELIVERY LOOP</text>
+  <text x="18" y="376" class="sans bright" font-size="12" font-weight="700">BUILD · TEST · ITERATE</text>
+  <rect x="18" y="393" width="210" height="4" rx="2" fill="#1D2B3C"/>
+  <rect x="18" y="393" width="167" height="4" rx="2" fill="#22D3EE">
+    <animate attributeName="width" values="120;195;167;120" dur="8.5s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<text x="600" y="592" text-anchor="middle" class="mono muted" font-size="10" letter-spacing="2">AKHIL SAJI  //  MERN STACK  //  BUILD • DEBUG • SHIP • IMPROVE</text>
+<text x="600" y="613" text-anchor="middle" class="mono" fill="#60A5FA" font-size="9" letter-spacing="1.5">GRAPHITE / ELECTRIC BLUE / ICE CYAN</text>
+</svg>
