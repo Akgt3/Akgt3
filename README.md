@@ -75,7 +75,7 @@ This is a reference architecture for MERN-style applications, not a claim that e
 <div align="center">
 
   <h2>
-    <code>01 /</code> DEVELOPER METRICS
+    DEVELOPER METRICS
   </h2>
 
   <p>
@@ -106,11 +106,9 @@ This is a reference architecture for MERN-style applications, not a claim that e
   </table>
 
   <br/>
-
-
 <!-- 02 / CONTRIBUTION STREAK -->
  <h2>
-    <code>01 /</code> CONTRIBUTION STREAK
+    CONTRIBUTION STREAK
   </h2>
 <div align="center">
   <img
