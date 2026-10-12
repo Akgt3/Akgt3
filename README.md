@@ -82,20 +82,40 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
 ---
 
-<!-- CONTRIBUTION STREAK -->
+<!-- 02 / CONTRIBUTION STREAK -->
 
-<h3 align="center">02 / CONTRIBUTION STREAK</h3>
+<h3 align="center">
+  <code>02</code> / CONTRIBUTION STREAK
+</h3>
 
 <p align="center">
-  <sub>CONSISTENCY · CODE · CONTINUOUS IMPROVEMENT</sub>
+  <sub>BUILD &nbsp; / &nbsp; CONTRIBUTE &nbsp; / &nbsp; REPEAT</sub>
+</p>
+
+<div align="center">
+
+  <a href="https://github.com/Akgt3">
+    <img
+      src="https://streak-stats.demolab.com?user=Akgt3&theme=dark&background=0B0F14&border=26374B&stroke=26374B&ring=60A5FA&fire=22D3EE&currStreakNum=EAF2FC&sideNums=EAF2FC&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&hide_border=true"
+      width="70%"
+      alt="GitHub contribution streak statistics"
+    />
+  </a>
+
+</div>
+
+<br/>
+
+<h4 align="center">
+  <code>TECHNOLOGY SYSTEMS</code>
+</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,tailwind,git,github&theme=dark" width="85%" alt="Technology stack"/>
 </p>
 
 <p align="center">
-  <img
-    src="./assets/streak.svg"
-    width="70%"
-    alt="GitHub contribution streak statistics"
-  />
+  <sub>FRONTEND ENGINEERING &nbsp; · &nbsp; BACKEND SYSTEMS &nbsp; · &nbsp; DATABASES</sub>
 </p>
 
 
