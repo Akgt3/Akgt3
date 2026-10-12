@@ -69,19 +69,6 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
 ---
 
-<!-- ═══════════ GITHUB ANALYTICS ═══════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0B0F14&text=GITHUB%20ANALYTICS&fontSize=24&fontColor=60A5FA&fontAlignY=55&animation=fadeIn&desc=CONTRIBUTIONS%20%2F%20REPOSITORIES%20%2F%20CODE%20DISTRIBUTION&descSize=10&descColor=94A3B8&descAlignY=85" width="100%" alt="GitHub analytics header"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=REPOSITORY+INTELLIGENCE;CONTRIBUTION+TELEMETRY;LANGUAGE+DISTRIBUTION;CONTINUOUS+DEVELOPMENT" alt="Animated analytics labels"/>
-
-</div>
-
----
 
 ### `01 / DEVELOPER METRICS`
 
