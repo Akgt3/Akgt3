@@ -1,97 +1,95 @@
-<h1 align="left">Welcome to my GitHub 👋</h1>
+!--
+IMPORTANT:
+1. This README belongs in the repository named exactly: Akgt3
+2. To make the images reliable, upload the five design images to your own repository
+   (for example, create an assets folder) and replace the github-user-attachments URLs below
+   with the URLs of your own uploaded images.
+-->
 
-###
+<!-- ======================== PREMIUM HERO ======================== -->
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<p align="center">
+  <img width="1664" alt="Shinobi Coder portfolio banner" src="https://github.com/user-attachments/assets/5a8843b7-d6bd-4bfe-9855-95bc08357c22" />
+</p>
 
-###
+<!-- ======================== PROFILE INTRO ======================== -->
 
-<p align="left">Akhil Saji<br>Full-Stack MERN Developer | Scalable Web Applications & Real-Time Systems 🚀<br><br>Full-Stack JavaScript Developer specializing in the MERN stack, building scalable, production-ready web applications from architecture to deployment.
+<table align="center" width="96%">
+  <tr>
+    <td width="58%" valign="top">
 
-Experienced in designing modular React frontends, engineering RESTful APIs with Node.js and Express, structuring MongoDB data models, and implementing secure authentication using JWT and OAuth.</p>
+  <h2>Engineering With Purpose</h2>
 
-###
+  <p>
+    I design and build modern software systems across the
+    <strong>frontend, backend, cloud, data, and AI layers.</strong>
+  </p>
 
-<h2 align="left">About me</h2>
+  <p>
+    My focus is on turning complicated product requirements into
+    clean, scalable, secure, and maintainable systems that are ready
+    for real-world production environments.
+  </p>
 
-###
+  <br />
 
-<p align="left">✨ Writing production-grade code since 2025, continuously refining clean architecture principles and performance optimization practices.<br><br>📚 Currently expanding expertise in Next.js, system design fundamentals, and full-stack scalability patterns.<br><br>🎯 Goal: To grow into a high-impact Full-Stack Engineer building robust, real-world products that combine strong frontend experience with reliable backend systems.<br><br>🧠 Passionate about debugging, performance tuning, and solving complex data-flow problems — where real engineering growth happens.</p>
+  <table>
+    <tr>
+      <td>
+        <strong>Frontend</strong><br />
+        <sub>React · Next.js · TypeScript</sub>
+      </td>
+      <td>
+        <strong>Backend</strong><br />
+        <sub>Python · Node.js · Java · Go</sub>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Cloud</strong><br />
+        <sub>AWS · Azure · GCP · Kubernetes</sub>
+      </td>
+      <td>
+        <strong>AI</strong><br />
+        <sub>LLM · RAG · LangChain</sub>
+      </td>
+    </tr>
+  </table>
 
-###
+</td>
+<td width="42%" align="center" valign="middle">
+  <img width="960" alt="Shinobi Coder character artwork" src="https://github.com/user-attachments/assets/56a9d4d3-a1d2-4028-bce9-f4742f82c031" />
+</td>
 
-<h2 align="left">Technology Stack & Tools</h2>
+  </tr>
+</table>
 
-###
+<!-- ======================== TECHNOLOGY MATRIX ======================== -->
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+<p align="center">
+  <img width="1664" alt="Technology universe infographic" src="https://github.com/user-attachments/assets/45e88119-2d01-4e84-895c-580287d27a03" />
+</p>
 
-###
+<!-- ======================== LANGUAGE WALL ======================== -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akgt3/Akgt3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akgt3/Akgt3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Akgt3/Akgt3/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img width="1664" alt="Programming language and technology infographic" src="https://github.com/user-attachments/assets/6f432534-5f4f-486a-8213-b4aeed78e62f" />
+</p>
 
-###
+<!-- ======================== ARCHITECTURE ======================== -->
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Akgt3&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<p align="center">
+  <img width="1664" alt="System architecture infographic" src="https://github.com/user-attachments/assets/44af0da5-f5b2-4063-bd51-6d54134522f5" />
+</p>
 
-###
+<!-- ======================== OBSERVABILITY ======================== -->
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/akhilsaji339/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
+<p align="center">
+  <img width="1664" alt="Observability infographic" src="https://github.com/user-attachments/assets/f88ca2c9-fd65-4b14-be02-378f5c8bc52e" />
+</p>
 
-###
+<!-- ======================== CONTRIBUTION GRAPH ======================== -->
+
+<p align="center">
+  <img width="1664" alt="GitHub contribution graph design" src="https://github.com/user-attachments/assets/902d2c1c-738a-4f4b-a090-c47830a774f8" />
+</p>
