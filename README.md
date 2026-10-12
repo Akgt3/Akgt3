@@ -68,47 +68,16 @@ I work across the application stack: from React interfaces and API integration t
 This is a reference architecture for MERN-style applications, not a claim that every project currently implements every layer.
 
 ---
-
-<!-- 01 / DEVELOPER METRICS -->
-
 <h3 align="center">
   <code>01 / DEVELOPER METRICS</code>
 </h3>
 
 <div align="center">
-
   <img
-    src="./assets/developer-metrics-animated.svg"
+    src="./assets/developer-metrics-single.svg"
     width="100%"
-    alt="Animated developer metrics dashboard"
+    alt="Developer metrics dashboard"
   />
-
-  <br/><br/>
-
-  <a href="https://github.com/Akgt3">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Akgt3&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=60A5FA&icon_color=22D3EE&text_color=EAF2FC&rank_icon=github&include_all_commits=true"
-      width="49%"
-      alt="GitHub profile statistics"
-    />
-  </a>
-
-  <a href="https://github.com/Akgt3">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akgt3&layout=compact&hide_border=true&bg_color=0B0F14&title_color=60A5FA&text_color=EAF2FC&langs_count=6"
-      width="49%"
-      alt="Programming language statistics"
-    />
-  </a>
-
-  <br/><br/>
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Akgt3&bg_color=0B0F14&color=94A3B8&line=60A5FA&point=22D3EE&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub contribution activity"
-  />
-
 </div>
 
 <!-- ═══════════════ 02 / CONTRIBUTION STREAK ═══════════════ -->
