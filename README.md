@@ -1,16 +1,13 @@
 <div align="center">
 
 <img src="assets/header.svg" width="100%" alt="Akhil Saji — Full-Stack MERN Developer"/>
-
 <br/>
-
 <a href="https://github.com/Akgt3">
   <img src="https://img.shields.io/badge/GITHUB-AKGT3-0B0F14?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0B0F14" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/akhilsaji339/">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B0F14?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=0B0F14" alt="LinkedIn"/>
 </a>
-
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=700&color=8AB4F8&center=true&vCenter=true&width=760&lines=FULL-STACK+MERN+DEVELOPER;ENGINEERING+RESPONSIVE+WEB+EXPERIENCES;REACT+%2F+NODE.JS+%2F+EXPRESS+%2F+MONGODB;DESIGN.+BUILD.+MEASURE.+IMPROVE." alt="Animated engineering tagline"/>
