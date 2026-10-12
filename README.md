@@ -69,22 +69,14 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
 ---
 
-<!-- ====================================================== -->
-<!-- 01 / DEVELOPER METRICS                                 -->
-<!-- ====================================================== -->
-
-<h3 align="center">
-  <code>01 / DEVELOPER METRICS</code>
-</h3>
+### `01 / DEVELOPER METRICS`
 
 <div align="center">
-
   <img
     src="./assets/developer-metrics.svg"
     width="100%"
-    alt="Developer metrics dashboard"
+    alt="Animated developer metrics dashboard"
   />
-
 </div>
 
 <!-- ====================================================== -->
