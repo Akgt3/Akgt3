@@ -108,29 +108,17 @@ This is a reference architecture for MERN-style applications, not a claim that e
   <br/>
 
   <!-- CONTRIBUTION ACTIVITY -->
-
-
-
 <!-- 02 / CONTRIBUTION STREAK -->
 
 <div align="center">
 
   <img
-    src="./assets/contribution-streak-animated.svg"
-    width="100%"
-    alt="Animated contribution streak dashboard"
+    src="https://streak-stats.demolab.com?user=Akgt3&theme=dark&hide_border=true&background=0B0F14&ring=60A5FA&fire=22D3EE&currStreakNum=EAF2FC&sideNums=EAF2FC&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B"
+    width="90%"
+    alt="Live GitHub contribution streak statistics"
   />
 
-  <a href="https://github.com/Akgt3">
-    <img
-      src="https://streak-stats.demolab.com?user=Akgt3&background=0B0F14&border=26374B&stroke=26374B&ring=60A5FA&fire=22D3EE&currStreakNum=EAF2FC&sideNums=EAF2FC&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&hide_border=true"
-      width="85%"
-      alt="Real GitHub contribution streak statistics"
-    />
-  </a>
-
 </div>
-
 
 ## `07 / CONTACT`
 
