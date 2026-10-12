@@ -84,11 +84,7 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
 ### `02 / CONTRIBUTION STREAK`
 
-<div align="center">
-
-<img width="85%" src="https://streak-stats.demolab.com?user=Akgt3&hide_border=true&background=0B0F14&ring=60A5FA&fire=22D3EE&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&currStreakNum=EAF2FC&sideNums=EAF2FC" alt="GitHub contribution streak"/>
-
-</div>
+<div align="center"> <img src="assets/streak.svg" width="100%" alt="Real GitHub contribution streak statistics" /> </div>
 
 ---
 
