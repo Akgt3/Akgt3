@@ -43,27 +43,59 @@ I work across the application stack: from React interfaces and API integration t
 </tr>
 </table>
 
-## `02 / ENGINEERING STACK`
+<!-- ═══════════ ENGINEERING STACK ═══════════ -->
 
 <div align="center">
 
-**INTERFACE ENGINEERING**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0B0F14&text=ENGINEERING%20STACK&fontSize=24&fontColor=60A5FA&fontAlignY=55&animation=fadeIn&desc=TECHNOLOGY%20MATRIX%20%2F%20CORE%20CAPABILITIES&descSize=10&descColor=94A3B8&descAlignY=85" width="100%" alt="Engineering stack header"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui&perline=7" alt="Frontend stack"/>
+<br/>
 
-**APPLICATION & DATA**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=7" alt="Backend and database stack"/>
-
-**DEVELOPER TOOLING**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vite&perline=7" alt="Developer tooling"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=INTERFACE+ENGINEERING;APPLICATION+DEVELOPMENT;DATA+%26+API+INTEGRATION;DEVELOPER+TOOLING" alt="Animated engineering categories"/>
 
 </div>
 
-> Add TypeScript, Next.js, AWS, Docker, or testing tools to this matrix when you're ready to confidently discuss and demonstrate them in an interview.
+<br/>
 
----
+### `01 / FRONTEND ENGINEERING`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui&theme=dark&perline=7" alt="Frontend technologies"/>
+
+</div>
+
+<br/>
+
+### `02 / BACKEND & DATA SYSTEMS`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=7" alt="Backend and database technologies"/>
+
+</div>
+
+<br/>
+
+### `03 / DEVELOPMENT TOOLCHAIN`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vite&theme=dark&perline=7" alt="Developer tools"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0B0F14,50:60A5FA,100:22D3EE" width="100%" alt="Blue cyan divider"/>
+
+<img src="https://img.shields.io/badge/ARCHITECTURE-MODULAR-0B0F14?style=flat-square&labelColor=0B0F14&color=60A5FA" alt="Modular architecture"/>
+<img src="https://img.shields.io/badge/WORKFLOW-VERSION_CONTROL-0B0F14?style=flat-square&labelColor=0B0F14&color=22D3EE" alt="Version control"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL_STACK-0B0F14?style=flat-square&labelColor=0B0F14&color=60A5FA" alt="Full stack focus"/>
+
+</div>
 
 ## `03 / SYSTEM MODEL`
 
