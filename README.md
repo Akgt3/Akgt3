@@ -70,23 +70,54 @@ This is a reference architecture for MERN-style applications, not a claim that e
 ---
 
 
-### `01 / DEVELOPER METRICS`
+<!-- ====================================================== -->
+<!-- 01 / DEVELOPER METRICS                                 -->
+<!-- ====================================================== -->
+
+<h2 align="center">
+  <code>01 /</code> DEVELOPER METRICS
+</h2>
+
+<p align="center">
+  <sub>CODE &nbsp; / &nbsp; BUILD &nbsp; / &nbsp; LEARN &nbsp; / &nbsp; IMPROVE</sub>
+</p>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akgt3&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=60A5FA&icon_color=22D3EE&text_color=EAF2FC&rank_icon=github&include_all_commits=true" alt="GitHub developer statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akgt3&layout=compact&hide_border=true&bg_color=0B0F14&title_color=60A5FA&text_color=EAF2FC&langs_count=8" alt="Programming language distribution"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=Akgt3&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=60A5FA&icon_color=22D3EE&text_color=EAF2FC&rank_icon=github&include_all_commits=true"
+          width="400"
+          alt="GitHub developer metrics"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akgt3&layout=compact&hide_border=true&bg_color=0B0F14&title_color=60A5FA&text_color=EAF2FC&langs_count=8"
+          width="300"
+          alt="Most used programming languages"
+        />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
----
+<p align="center">
+  <sub>PROFILE ANALYTICS &nbsp; · &nbsp; LANGUAGE DISTRIBUTION &nbsp; · &nbsp; OPEN SOURCE</sub>
+</p>
 
-<!-- 02 / CONTRIBUTION STREAK -->
+<br/>
 
-<h3 align="center">
-  <code>02</code> / CONTRIBUTION STREAK
-</h3>
+<!-- ====================================================== -->
+<!-- 02 / CONTRIBUTION STREAK                                -->
+<!-- ====================================================== -->
+
+<h2 align="center">
+  <code>02 /</code> CONTRIBUTION STREAK
+</h2>
 
 <p align="center">
   <sub>BUILD &nbsp; / &nbsp; CONTRIBUTE &nbsp; / &nbsp; REPEAT</sub>
@@ -96,9 +127,9 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
   <a href="https://github.com/Akgt3">
     <img
-      src="https://streak-stats.demolab.com?user=Akgt3&theme=dark&background=0B0F14&border=26374B&stroke=26374B&ring=60A5FA&fire=22D3EE&currStreakNum=EAF2FC&sideNums=EAF2FC&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&hide_border=true"
-      width="70%"
-      alt="GitHub contribution streak statistics"
+      src="https://streak-stats.demolab.com?user=Akgt3&background=0B0F14&border=26374B&stroke=26374B&ring=60A5FA&fire=22D3EE&currStreakNum=EAF2FC&sideNums=EAF2FC&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&hide_border=true"
+      width="85%"
+      alt="GitHub contribution streak"
     />
   </a>
 
@@ -106,19 +137,22 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
 <br/>
 
-<h4 align="center">
-  <code>TECHNOLOGY SYSTEMS</code>
-</h4>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,tailwind,git,github&theme=dark" width="85%" alt="Technology stack"/>
+  <img
+    src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-0B0F14?style=flat-square&labelColor=0B0F14&color=60A5FA"
+    alt="Developer status"
+  />
 </p>
 
 <p align="center">
-  <sub>FRONTEND ENGINEERING &nbsp; · &nbsp; BACKEND SYSTEMS &nbsp; · &nbsp; DATABASES</sub>
+  <sub>CONSISTENT EFFORT CREATES EXTRAORDINARY RESULTS.</sub>
 </p>
 
+<p align="center">
+  <b>KEEP BUILDING <code>→</code></b>
+</p>
 
+<!-- ====================================================== -->
 
 ## `07 / CONTACT`
 
