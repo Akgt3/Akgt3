@@ -43,11 +43,11 @@ I work across the application stack: from React interfaces and API integration t
 </tr>
 </table>
 
-### `02 / ENGINEERING STACK`
+<!-- ENGINEERING STACK -->
 
 <div align="center">
 
-<img src="assets/technology-systems.svg" width="100%" alt="Akhil Saji technology systems matrix"/>
+<img src="./assets/technology-systems.svg" width="100%" alt="Akhil Saji Technology Systems"/>
 
 </div>
 
