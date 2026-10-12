@@ -68,17 +68,62 @@ I work across the application stack: from React interfaces and API integration t
 This is a reference architecture for MERN-style applications, not a claim that every project currently implements every layer.
 
 ---
-<h3 align="center">
-  <code>01 / DEVELOPER METRICS</code>
-</h3>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 01 / DEVELOPER METRICS                                 -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+  <h2>
+    <code>01 /</code> DEVELOPER METRICS
+  </h2>
+
+  <p>
+    <sub>PROFILE ANALYTICS &nbsp; / &nbsp; CODE DISTRIBUTION &nbsp; / &nbsp; ACTIVITY</sub>
+  </p>
+
+  <br/>
+
+  <!-- PROFILE OVERVIEW -->
+
+  <table>
+    <tr>
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=Akgt3&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=60A5FA&icon_color=22D3EE&text_color=EAF2FC&rank_icon=github&include_all_commits=true"
+          width="100%"
+          alt="GitHub profile statistics"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akgt3&layout=compact&hide_border=true&bg_color=0B0F14&title_color=60A5FA&text_color=EAF2FC&langs_count=6"
+          width="100%"
+          alt="Most-used programming languages"
+        />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- CONTRIBUTION ACTIVITY -->
+
   <img
-    src="./assets/developer-metrics-single.svg"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Akgt3&bg_color=0B0F14&color=94A3B8&line=60A5FA&point=22D3EE&area=true&area_color=12243A&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"
     width="100%"
-    alt="Developer metrics dashboard"
+    alt="GitHub contribution activity graph"
   />
+
+  <br/><br/>
+
+  <sub>
+    GRAPHITE BLACK &nbsp; / &nbsp; ELECTRIC BLUE &nbsp; / &nbsp; ICE CYAN
+  </sub>
+
 </div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <!-- ═══════════════ 02 / CONTRIBUTION STREAK ═══════════════ -->
 
