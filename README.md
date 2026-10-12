@@ -111,13 +111,11 @@ This is a reference architecture for MERN-style applications, not a claim that e
 <!-- 02 / CONTRIBUTION STREAK -->
 
 <div align="center">
-
   <img
-    src="https://streak-stats.demolab.com?user=Akgt3&theme=dark&hide_border=true&background=0B0F14&ring=60A5FA&fire=22D3EE&currStreakNum=EAF2FC&sideNums=EAF2FC&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Akgt3&theme=dark"
     width="90%"
-    alt="Live GitHub contribution streak statistics"
+    alt="GitHub contribution streak"
   />
-
 </div>
 
 ## `07 / CONTACT`
