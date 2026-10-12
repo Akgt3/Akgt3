@@ -14,9 +14,7 @@
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=700&color=8AB4F8&center=true&vCenter=true&width=760&lines=FULL-STACK+MERN+DEVELOPER;ENGINEERING+RESPONSIVE+WEB+EXPERIENCES;REACT+%2F+NODE.JS+%2F+EXPRESS+%2F+MONGODB;DESIGN.+BUILD.+MEASURE.+IMPROVE." alt="Animated engineering tagline"/>
-
 </div>
-
 ---
 
 <table>
