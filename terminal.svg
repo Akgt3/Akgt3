@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="340" viewBox="0 0 520 340" role="img" aria-labelledby="t">
+<title id="t">Developer terminal profile card</title>
+<rect x="1" y="1" width="518" height="338" rx="12" fill="#0B0F14" stroke="#273449"/>
+<path d="M1 44H519" stroke="#273449"/>
+<circle cx="22" cy="22" r="5" fill="#F87171"/><circle cx="40" cy="22" r="5" fill="#FBBF24"/><circle cx="58" cy="22" r="5" fill="#34D399"/>
+<text x="80" y="26" fill="#94A3B8" font-family="monospace" font-size="12">akhil@dev-machine: ~</text>
+<g font-family="JetBrains Mono,Consolas,monospace" font-size="13">
+  <text x="22" y="77" fill="#60A5FA">$ whoami</text>
+  <text x="22" y="100" fill="#E2E8F0">Akhil Saji</text>
+  <text x="22" y="133" fill="#60A5FA">$ role --current</text>
+  <text x="22" y="156" fill="#E2E8F0">Full-Stack MERN Developer</text>
+  <text x="22" y="189" fill="#60A5FA">$ stack --core</text>
+  <text x="22" y="212" fill="#A7F3D0">React / Node.js / Express / MongoDB</text>
+  <text x="22" y="245" fill="#60A5FA">$ focus --now</text>
+  <text x="22" y="268" fill="#E2E8F0">Build · Debug · Learn · Improve</text>
+  <text x="22" y="311" fill="#64748B">process exited with status 0</text>
+  <rect x="251" y="298" width="8" height="15" fill="#60A5FA">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</g>
+</svg>

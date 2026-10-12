@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Akhil Saji — Full-Stack MERN Developer</title>
+<desc id="desc">Dark technical banner with animated grid, moving signal line, and engineering typography.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#080B10"/>
+    <stop offset=".58" stop-color="#0B1220"/>
+    <stop offset="1" stop-color="#101C30"/>
+  </linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#8AB4F8" stroke-opacity=".09" stroke-width="1"/>
+  </pattern>
+  <linearGradient id="signal" x1="0" x2="1">
+    <stop offset="0" stop-color="#60A5FA" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#60A5FA"/>
+    <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="310" rx="14" fill="url(#bg)"/>
+<rect width="1200" height="310" rx="14" fill="url(#grid)"/>
+<path d="M0 246H1200" stroke="#60A5FA" stroke-opacity=".16"/>
+<path d="M0 246H1200" stroke="url(#signal)" stroke-width="2">
+  <animate attributeName="stroke-dasharray" values="10 35;55 15;10 35" dur="7s" repeatCount="indefinite"/>
+</path>
+<g fill="none" stroke="#60A5FA" stroke-opacity=".3">
+  <path d="M835 0V60H900V110H980"/>
+  <path d="M930 0V30H1020V80H1200"/>
+  <path d="M1100 160H1160V205H1200"/>
+  <circle cx="835" cy="60" r="3" fill="#60A5FA"/>
+  <circle cx="1020" cy="30" r="3" fill="#22D3EE"/>
+  <circle cx="1160" cy="205" r="3" fill="#60A5FA"/>
+</g>
+<g font-family="JetBrains Mono,Consolas,monospace">
+  <text x="72" y="54" fill="#8AB4F8" font-size="13" letter-spacing="3">DEVELOPER PROFILE / 001</text>
+  <text x="68" y="132" fill="#F3F4F6" font-size="54" font-weight="700" letter-spacing="1">AKHIL SAJI</text>
+  <rect x="72" y="154" width="5" height="25" fill="#60A5FA"/>
+  <text x="91" y="173" fill="#D5E4F7" font-size="20" letter-spacing="2">FULL-STACK MERN DEVELOPER</text>
+  <text x="72" y="211" fill="#94A3B8" font-size="14">Building modern web applications, from interface to data layer.</text>
+  <text x="72" y="280" fill="#64748B" font-size="11" letter-spacing="2">REACT  /  NODE.JS  /  EXPRESS  /  MONGODB</text>
+  <text x="1125" y="278" fill="#60A5FA" font-size="11" text-anchor="end">SYSTEM ONLINE</text>
+  <circle cx="1140" cy="274" r="4" fill="#22D3EE" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g transform="translate(1010 118)" fill="none" stroke="#60A5FA" stroke-opacity=".55">
+  <circle r="63" stroke-dasharray="2 8">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="35s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="46" stroke-dasharray="35 9 3 9">
+    <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="24s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="27" stroke="#22D3EE" stroke-opacity=".65"/>
+  <path d="M-18 0H18M0-18V18"/>
+  <circle r="5" fill="#22D3EE" stroke="none">
+    <animate attributeName="r" values="4;7;4" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+</g>
+</svg>
