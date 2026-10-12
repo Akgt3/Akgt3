@@ -83,9 +83,7 @@ This is a reference architecture for MERN-style applications, not a claim that e
   </p>
 
   <br/>
-
   <!-- PROFILE OVERVIEW -->
-
   <table>
     <tr>
       <td align="center">
@@ -98,7 +96,7 @@ This is a reference architecture for MERN-style applications, not a claim that e
       <td align="center">
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akgt3&layout=compact&hide_border=true&bg_color=0B0F14&title_color=60A5FA&text_color=EAF2FC&langs_count=6"
-          width="40%"
+          width="30%"
           alt="Most-used programming languages"
         />
       </td>
@@ -113,15 +111,13 @@ This is a reference architecture for MERN-style applications, not a claim that e
 <div align="center">
   <img
     src="./assets/streak.svg"
-    width="40%"
+    width="45%"
     alt="GitHub Contribution Streak"
   />
 </div>
 
 ## `CONTACT`
-
 <div align="center">
-
 <a href="https://github.com/Akgt3">
   <img src="https://img.shields.io/badge/SOURCE_CODE-GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub"/>
 </a>
