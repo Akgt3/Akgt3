@@ -69,29 +69,59 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
 ---
 
-## `05 / GITHUB TELEMETRY`
+<!-- ═══════════ GITHUB ANALYTICS ═══════════ -->
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akgt3&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=8AB4F8&icon_color=8AB4F8&text_color=C9D1D9&rank_icon=github" alt="GitHub overview statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akgt3&layout=compact&hide_border=true&bg_color=0B0F14&title_color=8AB4F8&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0B0F14&text=GITHUB%20ANALYTICS&fontSize=24&fontColor=60A5FA&fontAlignY=55&animation=fadeIn&desc=CONTRIBUTIONS%20%2F%20REPOSITORIES%20%2F%20CODE%20DISTRIBUTION&descSize=10&descColor=94A3B8&descAlignY=85" width="100%" alt="GitHub analytics header"/>
 
-<br/><br/>
+<br/>
 
-<img width="78%" src="https://streak-stats.demolab.com?user=Akgt3&hide_border=true&background=0B0F14&ring=60A5FA&fire=60A5FA&currStreakLabel=8AB4F8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akgt3&bg_color=0B0F14&color=C9D1D9&line=60A5FA&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub activity graph"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=REPOSITORY+INTELLIGENCE;CONTRIBUTION+TELEMETRY;LANGUAGE+DISTRIBUTION;CONTINUOUS+DEVELOPMENT" alt="Animated analytics labels"/>
 
 </div>
 
-**How to read these panels**
-- Overview statistics summarize the public GitHub data the service can access.
-- Language charts estimate language usage from repositories; they do not measure skill level.
-- Streaks and activity graphs depend on GitHub activity and the availability of the respective services.
+---
+
+### `01 / DEVELOPER METRICS`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akgt3&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=60A5FA&icon_color=22D3EE&text_color=EAF2FC&rank_icon=github&include_all_commits=true" alt="GitHub developer statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akgt3&layout=compact&hide_border=true&bg_color=0B0F14&title_color=60A5FA&text_color=EAF2FC&langs_count=8" alt="Programming language distribution"/>
+
+</div>
 
 ---
+
+### `02 / CONTRIBUTION STREAK`
+
+<div align="center">
+
+<img width="85%" src="https://streak-stats.demolab.com?user=Akgt3&hide_border=true&background=0B0F14&ring=60A5FA&fire=22D3EE&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&currStreakNum=EAF2FC&sideNums=EAF2FC" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+### `03 / ACTIVITY TIMELINE`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akgt3&bg_color=0B0F14&color=EAF2FC&line=60A5FA&point=22D3EE&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" width="100%" alt="GitHub development activity graph"/>
+
+</div>
+
+---
+
+### `04 / CONTRIBUTION MAP`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Akgt3/Akgt3/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution map"/>
+
+</div>
 
 ## `06 / CONTRIBUTION VISUALIZATION`
 
