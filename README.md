@@ -1,10 +1,4 @@
 !--
-IMPORTANT:
-1. This README belongs in the repository named exactly: Akgt3
-2. To make the images reliable, upload the five design images to your own repository
-   (for example, create an assets folder) and replace the github-user-attachments URLs below
-   with the URLs of your own uploaded images.
--->
 
 <!-- ======================== PREMIUM HERO ======================== -->
 
