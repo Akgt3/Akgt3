@@ -89,7 +89,7 @@ This is a reference architecture for MERN-style applications, not a claim that e
       <td align="center">
         <img
           src="https://github-readme-stats.vercel.app/api?username=Akgt3&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=60A5FA&icon_color=22D3EE&text_color=EAF2FC&rank_icon=github&include_all_commits=true"
-          width="100%"
+          width="50%"
           alt="GitHub profile statistics"
         />
       </td>
