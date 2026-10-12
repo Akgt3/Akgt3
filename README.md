@@ -105,15 +105,6 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
 ---
 
-### `03 / ACTIVITY TIMELINE`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akgt3&bg_color=0B0F14&color=EAF2FC&line=60A5FA&point=22D3EE&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY" width="100%" alt="GitHub development activity graph"/>
-
-</div>
-
----
 
 
 ## `07 / CONTACT`
