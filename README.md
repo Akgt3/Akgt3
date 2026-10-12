@@ -84,19 +84,19 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
 <!-- CONTRIBUTION STREAK -->
 
-<h2 align="center">02 / CONTRIBUTION STREAK</h2>
+<h3 align="center">02 / CONTRIBUTION STREAK</h3>
 
 <p align="center">
-  <sub>REAL GITHUB ACTIVITY · AUTOMATICALLY UPDATED</sub>
+  <sub>CONSISTENCY · CODE · CONTINUOUS IMPROVEMENT</sub>
 </p>
 
-<div align="center">
+<p align="center">
   <img
     src="./assets/streak.svg"
-    width="100%"
-    alt="Animated GitHub contribution streak statistics"
+    width="70%"
+    alt="GitHub contribution streak statistics"
   />
-</div>
+</p>
 
 
 
