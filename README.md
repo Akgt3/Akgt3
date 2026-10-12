@@ -69,41 +69,25 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
 ---
 
+<!-- ====================================================== -->
+<!-- 01 / DEVELOPER METRICS                                 -->
+<!-- ====================================================== -->
 
-<!-- ═══════════════ 01 / DEVELOPER METRICS ═══════════════ -->
-
-<h2 align="center">
-  <code>01 /</code> DEVELOPER METRICS
-</h2>
-
-<p align="center">
-  <sub>CODE / BUILD / LEARN / IMPROVE</sub>
-</p>
+<h3 align="center">
+  <code>01 / DEVELOPER METRICS</code>
+</h3>
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=Akgt3&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=60A5FA&icon_color=22D3EE&text_color=EAF2FC&rank_icon=github&include_all_commits=true"
-          width="100%"
-          alt="GitHub developer statistics"
-        />
-      </td>
-      <td align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akgt3&layout=compact&hide_border=true&bg_color=0B0F14&title_color=60A5FA&text_color=EAF2FC&langs_count=6"
-          width="100%"
-          alt="Most-used programming languages"
-        />
-      </td>
-    </tr>
-  </table>
+  <img
+    src="./assets/developer-metrics.svg"
+    width="100%"
+    alt="Developer metrics dashboard"
+  />
 
 </div>
 
-<br/>
+<!-- ====================================================== -->
 
 <!-- ═══════════════ 02 / CONTRIBUTION STREAK ═══════════════ -->
 
