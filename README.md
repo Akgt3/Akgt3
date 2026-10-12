@@ -23,7 +23,7 @@
 <tr>
 <td width="58%" valign="top">
 
-### `PROFILE / 001`
+### `PROFILE `
 
 I'm **Akhil Saji**, a Full-Stack MERN Developer focused on building responsive web applications, practical user experiences, and maintainable application logic.
 
@@ -53,7 +53,7 @@ I work across the application stack: from React interfaces and API integration t
 
 </div>
 
-## `03 / SYSTEM MODEL`
+## ` SYSTEM MODEL`
 
 <div align="center">
 
@@ -109,7 +109,9 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
 
 <!-- 02 / CONTRIBUTION STREAK -->
-
+ <h2>
+    <code>01 /</code> CONTRIBUTION STREAK
+  </h2>
 <div align="center">
   <img
     src="./assets/streak.svg"
@@ -118,7 +120,7 @@ This is a reference architecture for MERN-style applications, not a claim that e
   />
 </div>
 
-## `07 / CONTACT`
+## `CONTACT`
 
 <div align="center">
 
