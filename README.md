@@ -113,7 +113,7 @@ This is a reference architecture for MERN-style applications, not a claim that e
 <div align="center">
   <img
     src="./assets/streak.svg"
-    width="100%"
+    width="60%"
     alt="GitHub Contribution Streak"
   />
 </div>
