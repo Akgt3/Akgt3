@@ -1,89 +1,119 @@
-!--
-
-<!-- ======================== PREMIUM HERO ======================== -->
-
 <p align="center">
-  <img width="1664" alt="Shinobi Coder portfolio banner" src="https://github.com/user-attachments/assets/5a8843b7-d6bd-4bfe-9855-95bc08357c22" />
+  <img src="./assets/akhil-github-banner.png" alt="Akhil Saji — Full Stack Developer" width="100%" />
 </p>
 
-<!-- ======================== PROFILE INTRO ======================== -->
-
-<table align="center" width="96%">
-  <tr>
-    <td width="58%" valign="top">
-
-  <h2>Engineering With Purpose</h2>
-
-  <p>
-    I design and build modern software systems across the
-    <strong>frontend, backend, cloud, data, and AI layers.</strong>
-  </p>
-
-  <p>
-    My focus is on turning complicated product requirements into
-    clean, scalable, secure, and maintainable systems that are ready
-    for real-world production environments.
-  </p>
-
-  <br />
-
-  <table>
-    <tr>
-      <td>
-        <strong>Frontend</strong><br />
-        <sub>React · Next.js · TypeScript</sub>
-      </td>
-      <td>
-        <strong>Backend</strong><br />
-        <sub>Python · Node.js · Java · Go</sub>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Cloud</strong><br />
-        <sub>AWS · Azure · GCP · Kubernetes</sub>
-      </td>
-      <td>
-        <strong>AI</strong><br />
-        <sub>LLM · RAG · LangChain</sub>
-      </td>
-    </tr>
-  </table>
-
-</td>
-<td width="42%" align="center" valign="middle">
-  <img width="960" alt="Shinobi Coder character artwork" src="https://github.com/user-attachments/assets/56a9d4d3-a1d2-4028-bce9-f4742f82c031" />
-</td>
-
-  </tr>
-</table>
-
-<!-- ======================== TECHNOLOGY MATRIX ======================== -->
+<h1 align="center">Hi, I'm Akhil Saji 👋</h1>
+<h3 align="center">Full-Stack MERN Developer | Building Modern Web Applications</h3>
 
 <p align="center">
-  <img width="1664" alt="Technology universe infographic" src="https://github.com/user-attachments/assets/45e88119-2d01-4e84-895c-580287d27a03" />
+  I build responsive user interfaces, reliable backend APIs, and full-stack web applications
+  using JavaScript and the MERN stack.
 </p>
 
-<!-- ======================== LANGUAGE WALL ======================== -->
-
 <p align="center">
-  <img width="1664" alt="Programming language and technology infographic" src="https://github.com/user-attachments/assets/6f432534-5f4f-486a-8213-b4aeed78e62f" />
+  <a href="https://github.com/Akgt3">GitHub</a> •
+  <a href="https://www.linkedin.com/in/akhilsaji339/">LinkedIn</a> •
+  <a href="mailto:akhilsaji339@gmail.com">Email</a>
 </p>
 
-<!-- ======================== ARCHITECTURE ======================== -->
+👨‍💻 About Me
 
-<p align="center">
-  <img width="1664" alt="System architecture infographic" src="https://github.com/user-attachments/assets/44af0da5-f5b2-4063-bd51-6d54134522f5" />
+💻 Full-Stack Developer focused on the MERN stack.
+
+🎨 Interested in building clean, responsive, and accessible frontend experiences.
+
+🔧 Developing REST APIs, authentication flows, and database-backed applications.
+
+🌱 Currently strengthening my JavaScript fundamentals and expanding my React and backend skills.
+
+🎯 Goal: Build useful, maintainable web products and grow as a software engineer.
+
+🧰 Technology Stack
+
+Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend technologies" />
 </p>
 
-<!-- ======================== OBSERVABILITY ======================== -->
+Backend & Database
 
-<p align="center">
-  <img width="1664" alt="Observability infographic" src="https://github.com/user-attachments/assets/f88ca2c9-fd65-4b14-be02-378f5c8bc52e" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and database technologies" />
 </p>
 
-<!-- ======================== CONTRIBUTION GRAPH ======================== -->
+Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" alt="Development tools" />
+</p>
+
+🚀 Featured Projects
+
+🏡 EstateNest — Real Estate Listing Platform
+
+A real-estate project concept for browsing, listing, and managing properties.
+
+Property discovery and listing workflows
+
+Planned features include authentication, search, and property management
+
+Stack: MERN
+
+🎬 StreamFlix — OTT Streaming Platform
+
+A streaming-platform frontend inspired by modern entertainment services.
+
+Responsive browsing interface and movie discovery
+
+React-based components and navigation
+
+Stack: React, Vite, Tailwind CSS
+
+💳 LoanLog — Loan & EMI Tracker
+
+A loan tracking application concept for organizing loans and payment schedules.
+
+Track loan details and EMI information
+
+CRUD-focused interface
+
+Stack: React, JavaScript, Tailwind CSS
+
+Add each project's repository and live-demo links once they are ready:
+https://github.com/Akgt3/REPOSITORY-NAME
+
+🏗️ How a MERN App Works
+
+User
+  ↓
+React Frontend
+  ↓ HTTP / REST API
+Node.js + Express
+  ↓
+MongoDB + Mongoose
+  ↓
+JSON Response → React UI
+
+📊 GitHub Activity
 
 <p align="center">
-  <img width="1664" alt="GitHub contribution graph design" src="https://github.com/user-attachments/assets/902d2c1c-738a-4f4b-a090-c47830a774f8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akgt3&show_icons=true&theme=transparent&hide_border=true" height="165" alt="Akhil's GitHub statistics" />
+  <img src="https://streak-stats.demolab.com?user=Akgt3&theme=transparent&hide_border=true" height="165" alt="Akhil's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akgt3&layout=compact&theme=transparent&hide_border=true" height="150" alt="Most-used programming languages" />
+</p>
+
+🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/Akgt3">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/akhilsaji339/">LinkedIn</a> ·
+  <a href="mailto:akhilsaji339@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <i>Build. Learn. Improve. Repeat. 🚀</i>
 </p>
