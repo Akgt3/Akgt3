@@ -1,198 +1,218 @@
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                    AKHIL SAJI                              -->
-
-<!--                  GITHUB PROFILE                            -->
+<!--                  ANIMATED PROFILE                          -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# AKHIL SAJI
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050505,50:111827,100:2563EB&text=AKHIL%20SAJI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20MERN%20DEVELOPER&descSize=17&descAlignY=58&animation=fadeIn&stroke=2563EB&strokeWidth=1" alt="Akhil Saji animated header"/>
 
-### Full-Stack MERN Developer
-
-**Scalable Web Applications · Modern UI · Real-Time Systems**
-
-Building responsive, intuitive, and scalable web applications
-with modern JavaScript technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;Building+Modern+Web+Experiences;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Turning+Ideas+Into+Digital+Products" alt="Animated developer introduction"/>
 
 <br/>
 
 <a href="https://github.com/Akgt3">
-  <img src="https://img.shields.io/badge/GitHub-Akgt3-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://komarev.com/ghpvc/?username=Akgt3&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
-<a href="https://www.linkedin.com/in/akhilsaji339/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+<a href="https://github.com/Akgt3?tab=followers">
+  <img src="https://img.shields.io/github/followers/Akgt3?style=for-the-badge&color=111827&labelColor=2563EB&logo=github&label=FOLLOWERS" alt="GitHub followers"/>
 </a>
-<a href="mailto:akhilsaji.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+
+<a href="https://github.com/Akgt3?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
 </div>
 
 ---
 
-## About Me
+## `01 / ABOUT ME`
 
-I'm a Full-Stack MERN Developer focused on building modern web applications with clean interfaces, maintainable code, and reliable backend functionality.
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer coding"/>
 
-* Developing responsive and user-focused web applications.
-* Building full-stack applications using the MERN stack.
-* Working with REST APIs, authentication, and database integration.
-* Continuously improving my JavaScript, React, and backend development skills.
-* Interested in scalable architecture, performance, and modern web technologies.
+Hey! I'm **Akhil Saji**, a Full-Stack MERN Developer passionate about building modern, responsive, and user-focused web applications.
+
+I enjoy working across the stack, from designing clean interfaces to implementing backend functionality and database integration.
+
+* 💻 Full-stack web development
+* ⚛️ React-based user interfaces
+* ⚙️ REST APIs and backend development
+* 🗄️ Database design and integration
+* 🎨 Responsive UI and modern web experiences
+* 🚀 Constant learning and project development
+
+<br clear="right"/>
 
 ---
 
-## Technical Skills
+## `02 / TECH STACK`
 
 <div align="center">
 
-### Frontend
+### FRONTEND
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS3"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript"/>
-</a>
-<a href="https://www.typescriptlang.org/">
-  <img src="https://skillicons.dev/icons?i=ts" width="42" alt="TypeScript"/>
-</a>
-<a href="https://react.dev/">
-  <img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/>
-</a>
-<a href="https://nextjs.org/">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="Next.js"/>
-</a>
-<a href="https://tailwindcss.com/">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="Tailwind CSS"/>
-</a>
-<a href="https://getbootstrap.com/">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="42" alt="Bootstrap"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui&perline=9" alt="Frontend technologies"/>
 
-<br/>
+### BACKEND & DATABASE
 
-### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=8" alt="Backend and database technologies"/>
 
-<a href="https://nodejs.org/">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js"/>
-</a>
-<a href="https://expressjs.com/">
-  <img src="https://skillicons.dev/icons?i=express" width="42" alt="Express.js"/>
-</a>
-<a href="https://www.mongodb.com/">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="42" alt="MongoDB"/>
-</a>
-<a href="https://www.mysql.com/">
-  <img src="https://skillicons.dev/icons?i=mysql" width="42" alt="MySQL"/>
-</a>
+### TOOLS & WORKFLOW
 
-<br/>
-
-### Tools & Platforms
-
-<a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/>
-</a>
-<a href="https://github.com/">
-  <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/>
-</a>
-<a href="https://code.visualstudio.com/">
-  <img src="https://skillicons.dev/icons?i=vscode" width="42" alt="VS Code"/>
-</a>
-<a href="https://www.figma.com/">
-  <img src="https://skillicons.dev/icons?i=figma" width="42" alt="Figma"/>
-</a>
-<a href="https://aws.amazon.com/">
-  <img src="https://skillicons.dev/icons?i=aws" width="42" alt="AWS"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vite&perline=8" alt="Developer tools"/>
 
 </div>
 
 ---
 
-## Featured Projects
+## `03 / FEATURED PROJECTS`
 
-### 01. EstateNest
+<div align="center">
+
+<a href="https://github.com/Akgt3">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0:111827,100:1D4ED8&text=SELECTED%20PROJECTS&fontSize=19&fontColor=FFFFFF&fontAlign=50&fontAlignY=55" width="100%" alt="Selected projects banner"/>
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏡 EstateNest
 
 **Real Estate Listing Platform**
 
-A real estate application concept designed to connect property buyers and sellers through a modern property discovery experience.
+A real estate platform concept for property discovery, listing management, and connecting buyers with sellers.
 
 * Property listings and management
-* User authentication and authorization
+* Authentication and authorization
 * Property search and filtering
-* Responsive user interface
+* Responsive interface
 
-`React` `Node.js` `Express.js` `MongoDB`
+**Stack**
 
-### 02. StreamFlix
+`React` `Node.js` `Express` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 StreamFlix
 
 **Movie & Entertainment Platform**
 
-A streaming-platform-inspired web application featuring a modern interface, movie discovery, and user account functionality.
+A streaming-inspired web application focused on movie discovery, user accounts, and an engaging interface.
 
 * Movie browsing and search
 * User authentication
-* Personal watchlist functionality
-* Animated and responsive interface
+* Personal watchlist
+* Animated interface
 
-`React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
+**Stack**
 
-### 03. LoanLog
+`React` `Tailwind CSS` `Node.js` `MongoDB`
 
-**Loan & EMI Tracking Application**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A loan management application concept for organizing loan information, tracking payments, and managing EMI records.
+### 💳 LoanLog
+
+**Loan & EMI Tracker**
+
+A loan management application designed to organize loan records and track EMI information.
 
 * Loan record management
-* Create, read, update, and delete operations
+* CRUD functionality
 * Payment tracking interface
-* Responsive dashboard design
+* Responsive dashboard
+
+**Stack**
 
 `React` `Tailwind CSS` `JavaScript` `JSON Server`
 
+</td>
+<td width="50%" valign="top">
+
+### 🚀 What's Next?
+
+**Continuous Development**
+
+Exploring new technologies and building projects that improve my frontend engineering and full-stack development skills.
+
+* Better architecture
+* Improved performance
+* Modern UI patterns
+* Stronger JavaScript fundamentals
+
+**Focus**
+
+`Learn` `Build` `Improve`
+
+</td>
+</tr>
+</table>
+
+> Replace the project names with links to their actual repositories once you confirm the repository URLs.
+
 ---
 
-## GitHub Statistics
+## `04 / GITHUB ANALYTICS`
 
 <div align="center">
 
-<a href="https://github.com/Akgt3">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akgt3&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Akhil's GitHub Statistics"/>
-</a>
-<a href="https://github.com/Akgt3">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akgt3&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akgt3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
 
-<br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akgt3&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Most used programming languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Akgt3&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Akgt3&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## Let's Connect
+## `05 / CONTRIBUTION GRAPH`
 
 <div align="center">
 
-Interested in web development, collaborative projects, and opportunities to build useful digital products.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akgt3&bg_color=0D1117&color=60A5FA&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
 
-<br/>
+</div>
 
-<a href="https://github.com/Akgt3">GitHub</a>
-  ·   <a href="https://www.linkedin.com/in/akhilsaji339/">LinkedIn</a>
+---
+
+## `06 / CONTRIBUTION SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Akgt3/Akgt3/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+---
+
+## `07 / CONNECT WITH ME`
+
+<div align="center">
+
+<a href="https://github.com/Akgt3">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/akhilsaji339/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 <br/><br/>
 
-*Building. Learning. Improving.*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2563EB,50:111827,100:050505&section=footer" width="100%" alt="Decorative footer"/>
+
+**BUILD. CREATE. IMPROVE.**
+
+*Turning ideas into meaningful digital experiences.*
 
 </div>
