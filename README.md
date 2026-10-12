@@ -110,55 +110,27 @@ This is a reference architecture for MERN-style applications, not a claim that e
   <!-- CONTRIBUTION ACTIVITY -->
 
 
-  <br/><br/>
 
-  <sub>
-    GRAPHITE BLACK &nbsp; / &nbsp; ELECTRIC BLUE &nbsp; / &nbsp; ICE CYAN
-  </sub>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<!-- ═══════════════ 02 / CONTRIBUTION STREAK ═══════════════ -->
-
-<h2 align="center">
-  <code>02 /</code> CONTRIBUTION STREAK
-</h2>
-
-<p align="center">
-  <sub>BUILD / CONTRIBUTE / LEARN / REPEAT</sub>
-</p>
+<!-- 02 / CONTRIBUTION STREAK -->
 
 <div align="center">
 
+  <img
+    src="./assets/contribution-streak-animated.svg"
+    width="100%"
+    alt="Animated contribution streak dashboard"
+  />
+
   <a href="https://github.com/Akgt3">
     <img
-      src="https://streak-stats.demolab.com?user=Akgt3&theme=dark&background=0B0F14&border=26374B&stroke=26374B&ring=60A5FA&fire=22D3EE&currStreakNum=EAF2FC&sideNums=EAF2FC&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&hide_border=true"
-      width="100%"
-      alt="GitHub contribution streak statistics"
+      src="https://streak-stats.demolab.com?user=Akgt3&background=0B0F14&border=26374B&stroke=26374B&ring=60A5FA&fire=22D3EE&currStreakNum=EAF2FC&sideNums=EAF2FC&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&hide_border=true"
+      width="85%"
+      alt="Real GitHub contribution streak statistics"
     />
   </a>
 
 </div>
 
-<br/>
-
-<div align="center">
-
-  <img
-    src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,tailwind,git,github&theme=dark"
-    width="85%"
-    alt="Development technology stack"
-  />
-
-  <p>
-    <sub>CONSISTENT EFFORT CREATES EXTRAORDINARY RESULTS.</sub>
-  </p>
-
-  <p><b>KEEP BUILDING →</b></p>
-
-</div>
 
 ## `07 / CONTACT`
 
