@@ -109,11 +109,6 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
   <!-- CONTRIBUTION ACTIVITY -->
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Akgt3&bg_color=0B0F14&color=94A3B8&line=60A5FA&point=22D3EE&area=true&area_color=12243A&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
 
   <br/><br/>
 
