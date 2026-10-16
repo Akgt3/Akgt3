@@ -122,7 +122,7 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
 <br/><br/>
 
-**BUILD / DEBUG / SHIP / REPEAT**
+**BUILD / DEBUG / SHIP/ REPEAT**
 
 <sub>Designed as a compact engineering portfolio · Akhil Saji</sub>
 
