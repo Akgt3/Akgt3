@@ -64,8 +64,15 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
 ---
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- 01 / DEVELOPER METRICS                                 -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<div align="center">
+
+<img
+  src="assets/observability-performance.svg"
+  width="100%"
+  alt="Observability and Performance Engineering Dashboard"
+/>
+
+</div>
 
 
 
