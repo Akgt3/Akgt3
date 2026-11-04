@@ -79,7 +79,7 @@ This is a reference architecture for MERN-style applications, not a claim that e
 </div>
   <!-- PROFILE OVERVIEW -->
 
-
+<table>
   <tr>
     <td align="center">
       <img
@@ -96,7 +96,7 @@ This is a reference architecture for MERN-style applications, not a claim that e
       />
     </td>
   </tr>
-
+</table>
   <br/>
 <!-- 02 / CONTRIBUTION STREAK -->
  <h2>
