@@ -79,25 +79,24 @@ This is a reference architecture for MERN-style applications, not a claim that e
 </div>
   <!-- PROFILE OVERVIEW -->
 
-  <table>
+<table>
   <tr>
-    <td width="50%" align="center">
+    <td align="center">
       <img
         src="https://github-stats-extended.vercel.app/api?username=Akgt3&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=60A5FA&icon_color=22D3EE&text_color=EAF2FC&rank_icon=github&include_all_commits=true"
-        width="100%"
-        alt="Akhil's GitHub Profile Statistics"
+        width="350"
+        alt="GitHub Profile Statistics"
       />
     </td>
-    <td width="50%" align="center">
+     <td align="center">
       <img
         src="https://github-stats-extended.vercel.app/api/top-langs/?username=Akgt3&layout=compact&hide_border=true&bg_color=0B0F14&title_color=60A5FA&text_color=EAF2FC&langs_count=6"
-        width="100%"
-        alt="Akhil's Most Used Programming Languages"
+        width="350"
+        alt="Most Used Programming Languages"
       />
     </td>
   </tr>
 </table>
-
   <br/>
 <!-- 02 / CONTRIBUTION STREAK -->
  <h2>
