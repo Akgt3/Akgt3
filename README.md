@@ -67,41 +67,7 @@ This is a reference architecture for MERN-style applications, not a claim that e
 <!-- 01 / DEVELOPER METRICS                                 -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- 01 / DEVELOPER METRICS                                 -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-  <h2>DEVELOPER METRICS</h2>
-
-  <p>
-    <sub>PROFILE ANALYTICS &nbsp; / &nbsp; CODE DISTRIBUTION &nbsp; / &nbsp; ACTIVITY</sub>
-  </p>
-
-  <br/>
-
-  <!-- PROFILE OVERVIEW -->
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img
-          src="./assets/stats.svg"
-          width="100%"
-          alt="GitHub Profile Statistics"
-        />
-      </td>
-      <td align="center" width="50%">
-        <img
-          src="./assets/top-langs.svg"
-          width="100%"
-          alt="Most Used Programming Languages"
-        />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
 
   <!-- CONTRIBUTION STREAK -->
   <h2>CONTRIBUTION STREAK</h2>
