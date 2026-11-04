@@ -69,21 +69,6 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
 
 
-  <!-- CONTRIBUTION STREAK -->
-  <h2>CONTRIBUTION STREAK</h2>
-
-  <img
-    src="./assets/streak.svg"
-    width="55%"
-    alt="GitHub Contribution Streak"
-  />
-
-  <br/><br/>
-
-  <sub>
-    LIVE PROFILE ANALYTICS &nbsp; / &nbsp; AUTOMATED GITHUB WORKFLOWS
-  </sub>
-
 </div>
   <!-- PROFILE OVERVIEW -->
   <table>
