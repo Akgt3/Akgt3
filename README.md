@@ -64,64 +64,55 @@ This is a reference architecture for MERN-style applications, not a claim that e
 
 ---
 <!-- ═══════════════════════════════════════════════════════ -->
+---
+
+<!-- DEVELOPER METRICS -->
+
 <div align="center">
 
+<h2>DEVELOPER METRICS</h2>
+
+<p>
+  <sub>OBSERVABILITY / PERFORMANCE / ENGINEERING PHILOSOPHY</sub>
+</p>
+
+<br/>
+
 <img
-  src="assets/observability-performance.svg"
+  src="./assets/observability-performance.svg"
   width="100%"
-  alt="Observability and Performance Engineering Dashboard"
+  alt="Observability and Performance Dashboard"
+/>
+
+<br/><br/>
+
+<h2>CONTRIBUTION STREAK</h2>
+
+<img
+  src="./assets/streak.svg"
+  width="55%"
+  alt="GitHub Contribution Streak"
 />
 
 </div>
 
-
-
-</div>
-  <!-- PROFILE OVERVIEW -->
-  <table>
-    <tr>
-      <td align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=Akgt3&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=60A5FA&icon_color=22D3EE&text_color=EAF2FC&rank_icon=github&include_all_commits=true"
-          width="80%"
-          alt="GitHub profile statistics"
-        />
-      </td>
-      <td align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akgt3&layout=compact&hide_border=true&bg_color=0B0F14&title_color=60A5FA&text_color=EAF2FC&langs_count=6"
-          width="80%"
-          alt="Most-used programming languages"
-        />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-<!-- 02 / CONTRIBUTION STREAK -->
- <h2>
-    CONTRIBUTION STREAK
-  </h2>
-<div align="center">
-  <img
-    src="./assets/streak.svg"
-    width="45%"
-    alt="GitHub Contribution Streak"
-  />
-</div>
+---
 
 ## `CONTACT`
+
 <div align="center">
+
 <a href="https://github.com/Akgt3">
   <img src="https://img.shields.io/badge/SOURCE_CODE-GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/in/akhilsaji339/">
   <img src="https://img.shields.io/badge/PROFESSIONAL_NETWORK-LINKEDIN-0B0F14?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-**BUILD / DEBUG / SHIP/ REPEAT**
+**BUILD / DEBUG / SHIP / REPEAT**
 
 <sub>Designed as a compact engineering portfolio · Akhil Saji</sub>
 
